@@ -1,3 +1,3 @@
 # Git Intro Project
 
-PERMISSION
+PERMISSIONS
