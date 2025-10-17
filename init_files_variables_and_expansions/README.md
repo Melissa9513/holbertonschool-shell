@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-et le script est echo "$((2#$BINARY))
+et le script est printf "%s\n" {a..z}{a..z} | grep -v ^oo$ 
