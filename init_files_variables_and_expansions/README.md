@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-et le script est echo $((128 + $TRUEKNOWLEDGE)) 
+et le script est echo $((POWER/DIVIDE))
